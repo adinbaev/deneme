@@ -7,6 +7,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    {/* sdşlasdşlasad */}
   </React.StrictMode>,
   document.getElementById('root')
 );
