@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    {/*yeni branc */}
+    {/*masterda yapılan değişiklik*/}
   </React.StrictMode>,
   document.getElementById('root')
 );
