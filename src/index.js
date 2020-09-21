@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    {/* sdşlasdşlasad */}
+    {/* şimdi değişikliği buradan yapıcam yani başkası değişiklik yapmış yeni şeyler eklemiş ama onlar sende yok o yüzden pull yapman lazım */}
   </React.StrictMode>,
   document.getElementById('root')
 );
